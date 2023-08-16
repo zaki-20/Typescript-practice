@@ -3,4 +3,4 @@ const user = {
     age: 26,
 };
 
-user.location;
+// user.location;
